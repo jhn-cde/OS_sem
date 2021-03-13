@@ -1,2 +1,4 @@
 # OS_sem
-Classic problems solved with semaphores
+Operating System
+Concurrence - mutual exclusion
+classic problems solved using semaphores
